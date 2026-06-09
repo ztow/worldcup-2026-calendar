@@ -24,6 +24,18 @@
 | [2026世界盃賽程_繁體中文.ics](./2026世界盃賽程_繁體中文.ics) | 繁體中文 | 104 |
 | [2026_FIFA_World_Cup_Schedule_EN.ics](./2026_FIFA_World_Cup_Schedule_EN.ics) | English | 104 |
 
+### 一键订阅
+
+点击以下链接可直接添加到系统日历（iOS / macOS 原生支持，其他平台复制链接后在日历应用中添加订阅）：
+
+| 语言 | 订阅链接 |
+|------|---------|
+| 简体中文 | [webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics](webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics) |
+| 繁體中文 | [webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics](webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics) |
+| English | [webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics](webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics) |
+
+> iPhone / Mac 用户：Safari 打开此页面，直接点击上方链接即可订阅。订阅后比赛时间自动转为设备本地时区。
+
 ### 关键场次
 
 | 比赛 | 北京时间 | 阶段 |
