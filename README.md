@@ -20,51 +20,39 @@
 
 **优点**：后续淘汰赛对阵更新后，所有订阅者自动同步，无需重新导入。
 
-点击以下链接即可订阅（Safari 或 Chrome 中点击，iOS / macOS 自动唤起日历应用）：
+**iOS / macOS 用户**：在 Safari 中点击下方链接，自动唤起日历 App 订阅。
 
-| 语言 | 一键订阅 |
-|------|---------|
-| 简体中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics">订阅</a> |
-| 繁體中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics">訂閱</a> |
-| English | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics">Subscribe</a> |
+| 语言 | 一键订阅（Safari 点击） | 手动订阅链接（复制粘贴） |
+|------|----------------------|------------------------|
+| 简体中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics">点击订阅</a> | `https://ztow.github.io/worldcup-2026-calendar/2026世界杯赛程_简体中文.ics` |
+| 繁體中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics">點擊訂閱</a> | `https://ztow.github.io/worldcup-2026-calendar/2026世界盃賽程_繁體中文.ics` |
+| English | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics">Subscribe</a> | `https://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics` |
+
+> 如果一键订阅无反应，请用 Safari 打开此页面重试，或复制右侧链接手动添加到日历。
 
 #### 各平台详细步骤
 
 **iPhone / iPad（iOS）**
 
-> 用 Safari 打开本页面，直接点上方链接即可。
-
-或手动操作：
-1. 打开「设置」→「App」→「日历」→「账户」→「添加账户」→「其他」→「添加已订阅的日历」
-2. 粘贴订阅链接：`https://ztow.github.io/worldcup-2026-calendar/2026世界杯赛程_简体中文.ics`
-3. 点击「下一步」→「存储」
-4. 日历 App 中勾选「2026世界杯赛程」即可显示
+1. 用 **Safari** 打开本页面，点击上方的「点击订阅」
+2. 或：设置 → App → 日历 → 账户 → 添加账户 → 其他 → 添加已订阅的日历 → 粘贴 https 链接
 
 **Mac（macOS）**
 
-1. 打开「日历」App
-2. 菜单栏：文件 → 新建日历订阅
-3. 粘贴订阅链接：`https://ztow.github.io/worldcup-2026-calendar/2026世界杯赛程_简体中文.ics`
-4. 点击「订阅」，可自定义名称和刷新频率（建议每小时）
-5. 勾选「忽略提醒」或按需设置 ⚠️ 104 场比赛默认无提醒，避免骚扰
+1. 日历 App → 菜单栏：文件 → 新建日历订阅 → 粘贴 https 链接 → 订阅
 
 **Android**
 
-1. 用手机浏览器打开 [Google 日历网页版](https://calendar.google.com)
-2. 左侧「其他日历」→ `+` → 通过网址添加
-3. 粘贴订阅链接：`https://ztow.github.io/worldcup-2026-calendar/2026世界杯赛程_简体中文.ics`
-4. 点击「添加日历」，手机端 Google 日历 App 自动同步
+1. 用手机浏览器打开 [Google 日历网页版](https://calendar.google.com)（需桌面模式）
+2. 左侧「其他日历」→ `+` → 通过网址添加 → 粘贴 https 链接
 
 **Windows（Outlook 新版本）**
 
-1. 打开 Outlook → 切换到日历视图
-2. 左侧「添加日历」→「从 Internet 订阅」
-3. 粘贴订阅链接：`https://ztow.github.io/worldcup-2026-calendar/2026世界杯赛程_简体中文.ics`
-4. 点击「导入」
+1. Outlook 日历视图 → 添加日历 → 从 Internet 订阅 → 粘贴 https 链接
 
 **Outlook 经典版 / Windows 日历**
 
-经典 Outlook 不直接支持日历订阅链接。请使用方式二下载 ICS 文件后导入。
+经典 Outlook 不支持 URL 订阅，请使用方式二下载 ICS 文件导入。
 
 ### 方式二：下载文件导入（一次性）
 
@@ -118,44 +106,33 @@
 
 於 Safari 或 Chrome 中點擊以下連結，iOS / macOS 會自動喚起行事曆應用：
 
-| 語言 | 一鍵訂閱 |
-|------|---------|
-| 简体中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics">訂閱</a> |
-| 繁體中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics">訂閱</a> |
-| English | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics">Subscribe</a> |
+| 語言 | 一鍵訂閱（Safari 點擊） | 手動訂閱連結（複製貼上） |
+|------|----------------------|------------------------|
+| 简体中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics">點擊訂閱</a> | `https://ztow.github.io/worldcup-2026-calendar/2026世界杯赛程_简体中文.ics` |
+| 繁體中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics">點擊訂閱</a> | `https://ztow.github.io/worldcup-2026-calendar/2026世界盃賽程_繁體中文.ics` |
+| English | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics">Subscribe</a> | `https://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics` |
+
+> 如果一鍵訂閱無反應，請用 Safari 開啟此頁面重試，或複製右側連結手動新增到行事曆。
 
 #### 各平台詳細步驟
 
 **iPhone / iPad（iOS）**
 
-> 用 Safari 開啟本頁面，直接點上方連結即可。
-
-或手動操作：
-1. 打開「設定」→「App」→「行事曆」→「帳號」→「加入帳號」→「其他」→「加入已訂閱的行事曆」
-2. 貼上訂閱連結：`https://ztow.github.io/worldcup-2026-calendar/2026世界盃賽程_繁體中文.ics`
-3. 點選「下一步」→「儲存」
-4. 行事曆 App 中勾選「2026世界盃賽程」即可顯示
+1. 用 **Safari** 開啟本頁面，點擊上方的「點擊訂閱」
+2. 或：設定 → App → 行事曆 → 帳號 → 加入帳號 → 其他 → 加入已訂閱的行事曆 → 貼上 https 連結
 
 **Mac（macOS）**
 
-1. 開啟「行事曆」App
-2. 選單列：檔案 → 新增行事曆訂閱
-3. 貼上訂閱連結：`https://ztow.github.io/worldcup-2026-calendar/2026世界盃賽程_繁體中文.ics`
-4. 點選「訂閱」，可自訂名稱與重新整理頻率（建議每小時）
+1. 行事曆 App → 選單列：檔案 → 新增行事曆訂閱 → 貼上 https 連結 → 訂閱
 
 **Android**
 
-1. 用手機瀏覽器開啟 [Google 日曆網頁版](https://calendar.google.com)
-2. 左側「其他日曆」→ `+` → 透過網址新增
-3. 貼上訂閱連結：`https://ztow.github.io/worldcup-2026-calendar/2026世界盃賽程_繁體中文.ics`
-4. 點選「新增日曆」，手機端 Google 日曆 App 自動同步
+1. 用手機瀏覽器開啟 [Google 日曆網頁版](https://calendar.google.com)（需桌面模式）
+2. 左側「其他日曆」→ `+` → 透過網址新增 → 貼上 https 連結
 
 **Windows（Outlook 新版本）**
 
-1. 開啟 Outlook → 切換到日曆檢視
-2. 左側「新增日曆」→「從 Internet 訂閱」
-3. 貼上訂閱連結：`https://ztow.github.io/worldcup-2026-calendar/2026世界盃賽程_繁體中文.ics`
-4. 點選「匯入」
+1. Outlook 日曆檢視 → 新增日曆 → 從 Internet 訂閱 → 貼上 https 連結
 
 ### 方式二：下載檔案匯入（一次性）
 
@@ -199,47 +176,35 @@
 
 **Why subscribe?** When knockout matchups are updated after the group stage, all subscribers get changes automatically.
 
-Click a link below to subscribe (Safari or Chrome on iOS/macOS will open Calendar automatically):
+**iOS / macOS users**: Click a link below in Safari to subscribe directly in Calendar.
 
-| Language | One-Click Subscribe |
-|----------|-------------------|
-| 简体中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics">Subscribe</a> |
-| 繁體中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics">Subscribe</a> |
-| English | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics">Subscribe</a> |
+| Language | One-Click (Safari) | Manual Subscribe URL (copy & paste) |
+|----------|-------------------|--------------------------------------|
+| 简体中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics">Subscribe</a> | `https://ztow.github.io/worldcup-2026-calendar/2026世界杯赛程_简体中文.ics` |
+| 繁體中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics">Subscribe</a> | `https://ztow.github.io/worldcup-2026-calendar/2026世界盃賽程_繁體中文.ics` |
+| English | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics">Subscribe</a> | `https://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics` |
+
+> If one-click doesn't work, open this page in Safari and try again, or copy the URL on the right to add manually.
 
 #### Platform Instructions
 
 **iPhone / iPad (iOS)**
 
-> Open this page in Safari, click the link above — done.
-
-Manual steps:
-1. Settings → Apps → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar
-2. Paste: `https://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics`
-3. Tap Next → Save
-4. Open Calendar app, ensure "2026 FIFA World Cup Schedule" is checked
+1. Open this page in **Safari**, tap the "Subscribe" link above
+2. Or: Settings → Apps → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar → paste the https URL
 
 **Mac (macOS)**
 
-1. Open Calendar.app
-2. File → New Calendar Subscription
-3. Paste: `https://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics`
-4. Click Subscribe, customize name and refresh frequency (hourly recommended)
-5. Disable alerts to avoid 104 notifications
+1. Calendar.app → File → New Calendar Subscription → paste the https URL → Subscribe
 
 **Android**
 
-1. Open [Google Calendar](https://calendar.google.com) on your phone browser
-2. Left sidebar → Other calendars → `+` → From URL
-3. Paste: `https://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics`
-4. Click Add Calendar — syncs to Google Calendar app automatically
+1. Open [Google Calendar](https://calendar.google.com) on your phone browser (desktop mode)
+2. Left sidebar → Other calendars → `+` → From URL → paste the https URL
 
 **Windows (New Outlook)**
 
-1. Open Outlook → switch to Calendar view
-2. Add calendar → Subscribe from web
-3. Paste: `https://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics`
-4. Click Import
+1. Outlook Calendar view → Add calendar → Subscribe from web → paste the https URL
 
 **Classic Outlook / Windows Calendar** does not support subscribe-from-URL. Use Method 2 below.
 
