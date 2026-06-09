@@ -24,9 +24,9 @@
 
 | 语言 | 一键订阅 |
 |------|---------|
-| 简体中文 | [订阅](webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics) |
-| 繁體中文 | [訂閱](webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics) |
-| English | [Subscribe](webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics) |
+| 简体中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics">订阅</a> |
+| 繁體中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics">訂閱</a> |
+| English | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics">Subscribe</a> |
 
 #### 各平台详细步骤
 
@@ -120,9 +120,9 @@
 
 | 語言 | 一鍵訂閱 |
 |------|---------|
-| 简体中文 | [訂閱](webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics) |
-| 繁體中文 | [訂閱](webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics) |
-| English | [Subscribe](webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics) |
+| 简体中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics">訂閱</a> |
+| 繁體中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics">訂閱</a> |
+| English | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics">Subscribe</a> |
 
 #### 各平台詳細步驟
 
@@ -203,9 +203,9 @@ Click a link below to subscribe (Safari or Chrome on iOS/macOS will open Calenda
 
 | Language | One-Click Subscribe |
 |----------|-------------------|
-| 简体中文 | [Subscribe](webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics) |
-| 繁體中文 | [Subscribe](webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics) |
-| English | [Subscribe](webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics) |
+| 简体中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E7%A8%8B_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.ics">Subscribe</a> |
+| 繁體中文 | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.ics">Subscribe</a> |
+| English | <a href="webcal://ztow.github.io/worldcup-2026-calendar/2026_FIFA_World_Cup_Schedule_EN.ics">Subscribe</a> |
 
 #### Platform Instructions
 
