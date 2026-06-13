@@ -12,8 +12,8 @@ BEGIN:VEVENT
 UID:33b38c1f-177c-41dc-a4d9-bb49f401c4ec
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-SUMMARY:⚽ Mexico vs South Africa (Group A)
-DESCRIPTION:Mexico vs South Africa\nStage: Group Stage | Group: A | Matchday 1\nVenue: Mexico City, Mexico\n\n104 matches total | FIFA World Cup 2026
+SUMMARY:⚽ Mexico 2-0 South Africa (Group A)
+DESCRIPTION:Mexico vs South Africa 2-0\nResult: Mexico vs South Africa 2-0\nStage: Group Stage | Group: A | Matchday 1\nVenue: Mexico City, Mexico\n\n104 matches total | FIFA World Cup 2026
 LOCATION:Mexico City\, Mexico
 CATEGORIES:World Cup,Football,Soccer
 TRANSP:OPAQUE
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 UID:d7651d4c-8ad2-4c03-924e-84117e9606cf
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-SUMMARY:⚽ South Korea vs Czech Republic (Group A)
-DESCRIPTION:South Korea vs Czech Republic\nStage: Group Stage | Group: A | Matchday 1\nVenue: Guadalajara, Mexico\n\n104 matches total | FIFA World Cup 2026
+SUMMARY:⚽ South Korea 2-1 Czech Republic (Group A)
+DESCRIPTION:South Korea vs Czech Republic 2-1\nResult: South Korea vs Czech Republic 2-1\nStage: Group Stage | Group: A | Matchday 1\nVenue: Guadalajara, Mexico\n\n104 matches total | FIFA World Cup 2026
 LOCATION:Guadalajara\, Mexico
 CATEGORIES:World Cup,Football,Soccer
 TRANSP:OPAQUE
@@ -34,8 +34,8 @@ BEGIN:VEVENT
 UID:a9838c31-1d60-45d6-9a42-a4d2fca0fecb
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-SUMMARY:⚽ Canada vs Bosnia & Herzegovina (Group B)
-DESCRIPTION:Canada vs Bosnia & Herzegovina\nStage: Group Stage | Group: B | Matchday 1\nVenue: Toronto, Canada\n\n104 matches total | FIFA World Cup 2026
+SUMMARY:⚽ Canada 1-1 Bosnia & Herzegovina (Group B)
+DESCRIPTION:Canada vs Bosnia & Herzegovina 1-1\nResult: Canada vs Bosnia & Herzegovina 1-1\nStage: Group Stage | Group: B | Matchday 1\nVenue: Toronto, Canada\n\n104 matches total | FIFA World Cup 2026
 LOCATION:Toronto\, Canada
 CATEGORIES:World Cup,Football,Soccer
 TRANSP:OPAQUE
@@ -45,8 +45,8 @@ BEGIN:VEVENT
 UID:2958c67a-0780-4735-b239-6345ca1e5736
 DTSTART:20260613T000000Z
 DTEND:20260613T020000Z
-SUMMARY:⚽ USA vs Paraguay (Group D)
-DESCRIPTION:USA vs Paraguay\nStage: Group Stage | Group: D | Matchday 1\nVenue: Los Angeles, USA\n\n104 matches total | FIFA World Cup 2026
+SUMMARY:⚽ USA 2-1 Paraguay (Group D)
+DESCRIPTION:USA vs Paraguay 2-1\nResult: USA vs Paraguay 2-1\nStage: Group Stage | Group: D | Matchday 1\nVenue: Los Angeles, USA\n\n104 matches total | FIFA World Cup 2026
 LOCATION:Los Angeles\, USA
 CATEGORIES:World Cup,Football,Soccer
 TRANSP:OPAQUE

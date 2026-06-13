@@ -12,8 +12,8 @@ BEGIN:VEVENT
 UID:d9dc4873-a19e-4ac4-a502-e0c072104bcb
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-SUMMARY:⚽ Mexico vs South Africa (Group A)
-DESCRIPTION:Mexico vs South Africa\n階段：小組賽 | 小組：A | 第1輪\n地點：Mexico City, Mexico\n\n共104場比賽 | 2026美加墨世界盃
+SUMMARY:⚽ Mexico 2-0 South Africa (Group A)
+DESCRIPTION:Mexico vs South Africa 2-0\n比分：Mexico vs South Africa 2-0\n階段：小組賽 | 小組：A | 第1輪\n地點：Mexico City, Mexico\n\n共104場比賽 | 2026美加墨世界盃
 LOCATION:Mexico City\, Mexico
 CATEGORIES:世界盃,足球
 TRANSP:OPAQUE
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 UID:8a74defa-9e94-40a5-bcc1-666b2b664b4d
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-SUMMARY:⚽ South Korea vs Czech Republic (Group A)
-DESCRIPTION:South Korea vs Czech Republic\n階段：小組賽 | 小組：A | 第1輪\n地點：Guadalajara, Mexico\n\n共104場比賽 | 2026美加墨世界盃
+SUMMARY:⚽ South Korea 2-1 Czech Republic (Group A)
+DESCRIPTION:South Korea vs Czech Republic 2-1\n比分：South Korea vs Czech Republic 2-1\n階段：小組賽 | 小組：A | 第1輪\n地點：Guadalajara, Mexico\n\n共104場比賽 | 2026美加墨世界盃
 LOCATION:Guadalajara\, Mexico
 CATEGORIES:世界盃,足球
 TRANSP:OPAQUE
@@ -34,8 +34,8 @@ BEGIN:VEVENT
 UID:4257c261-b74c-408f-a389-c1802a5468db
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-SUMMARY:⚽ Canada vs Bosnia & Herzegovina (Group B)
-DESCRIPTION:Canada vs Bosnia & Herzegovina\n階段：小組賽 | 小組：B | 第1輪\n地點：Toronto, Canada\n\n共104場比賽 | 2026美加墨世界盃
+SUMMARY:⚽ Canada 1-1 Bosnia & Herzegovina (Group B)
+DESCRIPTION:Canada vs Bosnia & Herzegovina 1-1\n比分：Canada vs Bosnia & Herzegovina 1-1\n階段：小組賽 | 小組：B | 第1輪\n地點：Toronto, Canada\n\n共104場比賽 | 2026美加墨世界盃
 LOCATION:Toronto\, Canada
 CATEGORIES:世界盃,足球
 TRANSP:OPAQUE
@@ -45,8 +45,8 @@ BEGIN:VEVENT
 UID:ed89383a-3091-469e-8e1f-63b4e0dd4f70
 DTSTART:20260613T000000Z
 DTEND:20260613T020000Z
-SUMMARY:⚽ USA vs Paraguay (Group D)
-DESCRIPTION:USA vs Paraguay\n階段：小組賽 | 小組：D | 第1輪\n地點：Los Angeles, USA\n\n共104場比賽 | 2026美加墨世界盃
+SUMMARY:⚽ USA 2-1 Paraguay (Group D)
+DESCRIPTION:USA vs Paraguay 2-1\n比分：USA vs Paraguay 2-1\n階段：小組賽 | 小組：D | 第1輪\n地點：Los Angeles, USA\n\n共104場比賽 | 2026美加墨世界盃
 LOCATION:Los Angeles\, USA
 CATEGORIES:世界盃,足球
 TRANSP:OPAQUE

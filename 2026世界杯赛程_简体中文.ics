@@ -12,8 +12,8 @@ BEGIN:VEVENT
 UID:06f5b046-0933-4c44-aae3-31f780ba297a
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-SUMMARY:⚽ 墨西哥 vs 南非 (A组)
-DESCRIPTION:墨西哥 vs 南非\n阶段：小组赛 | 小组：A | 第1轮\n地点：墨西哥城, 墨西哥\n\n共104场比赛 | 2026美加墨世界杯
+SUMMARY:⚽ 墨西哥 2-0 南非 (A组)
+DESCRIPTION:墨西哥 vs 南非 2-0\n比分：墨西哥 vs 南非 2-0\n阶段：小组赛 | 小组：A | 第1轮\n地点：墨西哥城, 墨西哥\n\n共104场比赛 | 2026美加墨世界杯
 LOCATION:墨西哥城\, 墨西哥
 CATEGORIES:世界杯,足球
 TRANSP:OPAQUE
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 UID:b14f6fc4-cff7-47ca-a456-2693a8d06569
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-SUMMARY:⚽ 韩国 vs 捷克 (A组)
-DESCRIPTION:韩国 vs 捷克\n阶段：小组赛 | 小组：A | 第1轮\n地点：瓜达拉哈拉, 墨西哥\n\n共104场比赛 | 2026美加墨世界杯
+SUMMARY:⚽ 韩国 2-1 捷克 (A组)
+DESCRIPTION:韩国 vs 捷克 2-1\n比分：韩国 vs 捷克 2-1\n阶段：小组赛 | 小组：A | 第1轮\n地点：瓜达拉哈拉, 墨西哥\n\n共104场比赛 | 2026美加墨世界杯
 LOCATION:瓜达拉哈拉\, 墨西哥
 CATEGORIES:世界杯,足球
 TRANSP:OPAQUE
@@ -34,8 +34,8 @@ BEGIN:VEVENT
 UID:1e5b9681-1348-483f-8263-01c3fc529680
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-SUMMARY:⚽ 加拿大 vs 波黑 (B组)
-DESCRIPTION:加拿大 vs 波黑\n阶段：小组赛 | 小组：B | 第1轮\n地点：多伦多, 加拿大\n\n共104场比赛 | 2026美加墨世界杯
+SUMMARY:⚽ 加拿大 1-1 波黑 (B组)
+DESCRIPTION:加拿大 vs 波黑 1-1\n比分：加拿大 vs 波黑 1-1\n阶段：小组赛 | 小组：B | 第1轮\n地点：多伦多, 加拿大\n\n共104场比赛 | 2026美加墨世界杯
 LOCATION:多伦多\, 加拿大
 CATEGORIES:世界杯,足球
 TRANSP:OPAQUE
@@ -45,8 +45,8 @@ BEGIN:VEVENT
 UID:730a8d4b-2f6c-460d-8e3a-082d24d358aa
 DTSTART:20260613T000000Z
 DTEND:20260613T020000Z
-SUMMARY:⚽ 美国 vs 巴拉圭 (D组)
-DESCRIPTION:美国 vs 巴拉圭\n阶段：小组赛 | 小组：D | 第1轮\n地点：洛杉矶, 美国\n\n共104场比赛 | 2026美加墨世界杯
+SUMMARY:⚽ 美国 2-1 巴拉圭 (D组)
+DESCRIPTION:美国 vs 巴拉圭 2-1\n比分：美国 vs 巴拉圭 2-1\n阶段：小组赛 | 小组：D | 第1轮\n地点：洛杉矶, 美国\n\n共104场比赛 | 2026美加墨世界杯
 LOCATION:洛杉矶\, 美国
 CATEGORIES:世界杯,足球
 TRANSP:OPAQUE
