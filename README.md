@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 9a61b136af2bd066a6b8482292990741_a83ba9a763b211f1aa705254002afed2
-    ReservedCode1: Sxm5wrAqBomN53WfLzHW0i/JHQ3erIDfDczXEQA4v4IFR5WYW8ggwDpJFw8EDvUAjoSKORHlhvWw1Oa8JGQhwpKaUgKQJ1IgcpuK1unTnC8zwj87OR0ZufjgvRCVtU3N+0OmCODizJ5wEK4xXyEBK/p/gOmHGrAGqP/w4MNO13S4Q0pIYdKDMZnauHA=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 9a61b136af2bd066a6b8482292990741_a83ba9a763b211f1aa705254002afed2
-    ReservedCode2: Sxm5wrAqBomN53WfLzHW0i/JHQ3erIDfDczXEQA4v4IFR5WYW8ggwDpJFw8EDvUAjoSKORHlhvWw1Oa8JGQhwpKaUgKQJ1IgcpuK1unTnC8zwj87OR0ZufjgvRCVtU3N+0OmCODizJ5wEK4xXyEBK/p/gOmHGrAGqP/w4MNO13S4Q0pIYdKDMZnauHA=
----
-
 # 2026世界杯赛程日历 · 2026世界盃賽程日曆 · 2026 FIFA World Cup Calendar
 
 2026 年美加墨世界杯完整赛程，ICS 日历格式。支持两种导入方式——**日历订阅（推荐）** 可自动同步后续更新，**下载导入** 适合一次性添加。

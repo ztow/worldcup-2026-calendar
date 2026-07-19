@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 9a61b136af2bd066a6b8482292990741_aae5df1a63b211f18c3c5254007bceed
-    ReservedCode1: REzszOeXo7X9D15pex5WEGBrjHbkr9m1B+gwN6evYvbOC/e0kRUplzILQ8O+OR6OY34NlZRr1fu1teqwlkydnSN2XgRoDr4jJr/elLk/+AlBIqYGvJmlDuWWRT5X/0JlmleWBq8HGEslxWJC7+CFDuko1vyQMXBDnwDocNwi/saZs570P6GBeRmuR0U=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 9a61b136af2bd066a6b8482292990741_aae5df1a63b211f18c3c5254007bceed
-    ReservedCode2: REzszOeXo7X9D15pex5WEGBrjHbkr9m1B+gwN6evYvbOC/e0kRUplzILQ8O+OR6OY34NlZRr1fu1teqwlkydnSN2XgRoDr4jJr/elLk/+AlBIqYGvJmlDuWWRT5X/0JlmleWBq8HGEslxWJC7+CFDuko1vyQMXBDnwDocNwi/saZs570P6GBeRmuR0U=
----
-
 # 2026世界杯赛程日历 · 简体中文
 
 [English](README.en.md) | [繁體中文](README.zh-TW.md) | [回到首页](README.md)
@@ -75,17 +64,41 @@ AIGC:
 
 **Android**：下载文件 → 文件管理器打开 → 选择系统日历或 Google 日历导入。
 
-## 关键场次
+---
 
-| 比赛 | 北京时间 | 阶段 |
-|------|---------|------|
-| 墨西哥 vs 南非 | 6月12日 03:00 | A组（揭幕战） |
-| 巴西 vs 摩洛哥 | 6月14日 06:00 | C组 |
-| 阿根廷 vs 阿尔及利亚 | 6月17日 09:00 | J组 |
-| 英格兰 vs 克罗地亚 | 6月18日 04:00 | L组 |
-| 葡萄牙 vs 民主刚果 | 6月18日 01:00 | K组 |
-| 挪威 vs 法国 | 6月27日 03:00 | I组 |
-| 决赛 | 7月20日 03:00 | 决赛 |
+## 赛果与晋级（实时更新）
+
+### 1/8决赛
+
+| 比赛 | 比分 | 晋级 |
+|------|------|------|
+| 加拿大 vs 摩洛哥 | 0-3 | **摩洛哥** |
+| 巴拉圭 vs 法国 | 0-1 | **法国** |
+| 巴西 vs 挪威 | 1-2 | **挪威** |
+| 墨西哥 vs 英格兰 | 2-3 | **英格兰** |
+| 葡萄牙 vs 西班牙 | 0-1 | **西班牙** |
+| 美国 vs 比利时 | 1-4 | **比利时** |
+| 阿根廷 vs 埃及 | 待定 | 7月8日 00:00 |
+| 瑞士 vs 哥伦比亚 | 待定 | 7月8日 04:00 |
+
+### 1/4决赛 对阵
+
+| 时间（北京时间） | 对阵 | 地点 |
+|------|------|------|
+| 7月10日 04:00 | 法国 vs 摩洛哥 | 波士顿 |
+| 7月11日 03:00 | 西班牙 vs 比利时 | 洛杉矶 |
+| 7月12日 05:00 | (阿根廷/埃及胜者) vs (瑞士/哥伦比亚胜者) | 迈阿密 |
+| 7月12日 09:00 | 英格兰 vs 挪威 | 堪萨斯城 |
+
+### 后续赛程
+
+| 阶段 | 日期 | 场次 |
+|------|------|------|
+| 半决赛 | 7月14日 – 7月15日 | 2 |
+| 三四名决赛 | 7月18日 | 1 |
+| 决赛 | 7月19日 | 1 |
+
+---
 
 ## 赛程一览
 
@@ -102,6 +115,5 @@ AIGC:
 ## 说明
 
 - 北京时间为 UTC+8，日历文件使用 UTC 时间，导入后设备自动转换。
-- 淘汰赛对阵为占位符（如"A组第1"、"比赛73胜者"），待小组赛结束后更新。
+- 淘汰赛对阵随赛程推进实时更新，订阅用户自动同步。
 - 数据来源：FIFA、Soccerway。
-*（内容由AI生成，仅供参考）*

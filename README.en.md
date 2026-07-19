@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 9a61b136af2bd066a6b8482292990741_ac28255863b211f1aa705254002afed2
-    ReservedCode1: fTWRhcmxTnKFa1TLyEHzEP4omp6k2UQ9W6T7wnAGtxGnFiQ2u53OyAyNqLuC5YlGRmwrU4+Xl8PoJ9JKiF4ZtiTCGiijJk0tuGsJWVVes9UI6+ZeanlJr2CRhRevnnCvfc6Doxr1QMyEg/rjoITIW36fXR5UekfJOYPU2aotJeVsHbGktDF/ZM8PoxY=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 9a61b136af2bd066a6b8482292990741_ac28255863b211f1aa705254002afed2
-    ReservedCode2: fTWRhcmxTnKFa1TLyEHzEP4omp6k2UQ9W6T7wnAGtxGnFiQ2u53OyAyNqLuC5YlGRmwrU4+Xl8PoJ9JKiF4ZtiTCGiijJk0tuGsJWVVes9UI6+ZeanlJr2CRhRevnnCvfc6Doxr1QMyEg/rjoITIW36fXR5UekfJOYPU2aotJeVsHbGktDF/ZM8PoxY=
----
-
 # 2026 FIFA World Cup Calendar · English
 
 [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [Home](README.md)
@@ -23,7 +12,7 @@ AIGC:
 
 ## Method 1: Calendar Subscription (Recommended)
 
-**Why subscribe?** When knockout matchups are updated after the group stage, all subscribers get changes automatically.
+**Why subscribe?** When knockout matchups are updated, all subscribers get changes automatically.
 
 **iOS / macOS users**: Click a link below in Safari to subscribe directly in Calendar.
 
@@ -73,17 +62,41 @@ AIGC:
 
 **Android**: Download → open with file manager → choose system Calendar or Google Calendar to import.
 
-## Key Matches
+---
 
-| Match | Date (UTC) | Stage |
-|-------|-----------|-------|
-| Mexico vs South Africa | Jun 11, 19:00 | Group A (Opening Match) |
-| Brazil vs Morocco | Jun 13, 22:00 | Group C |
-| Argentina vs Algeria | Jun 17, 01:00 | Group J |
-| England vs Croatia | Jun 17, 20:00 | Group L |
-| Portugal vs DR Congo | Jun 17, 17:00 | Group K |
-| Norway vs France | Jun 26, 19:00 | Group I |
-| Final | Jul 19, 19:00 | Final |
+## Results & Bracket (Live Updates)
+
+### Round of 16
+
+| Match | Score | Advances |
+|-------|-------|----------|
+| Canada vs Morocco | 0-3 | **Morocco** |
+| Paraguay vs France | 0-1 | **France** |
+| Brazil vs Norway | 1-2 | **Norway** |
+| Mexico vs England | 2-3 | **England** |
+| Portugal vs Spain | 0-1 | **Spain** |
+| USA vs Belgium | 1-4 | **Belgium** |
+| Argentina vs Egypt | TBD | Jul 8 00:00 CST |
+| Switzerland vs Colombia | TBD | Jul 8 04:00 CST |
+
+### Quarter-Finals
+
+| Time (UTC) | Match | Venue |
+|------|------|------|
+| Jul 9 20:00 | France vs Morocco | Boston |
+| Jul 10 19:00 | Spain vs Belgium | Los Angeles |
+| Jul 11 21:00 | (ARG/EGY winner) vs (SUI/COL winner) | Miami |
+| Jul 12 01:00 | England vs Norway | Kansas City |
+
+### Remaining Schedule
+
+| Stage | Date Range | Matches |
+|-------|-----------|---------|
+| Semi-Finals | Jul 14 – Jul 15 | 2 |
+| Third-Place | Jul 18 | 1 |
+| Final | Jul 19 | 1 |
+
+---
 
 ## Schedule at a Glance
 
@@ -100,6 +113,5 @@ AIGC:
 ## Notes
 
 - All times are UTC. Your device converts to local timezone automatically.
-- Knockout-stage opponents are placeholders (e.g., "Group A Winner", "Match 73 Winner") until group stage concludes.
+- Knockout matchups are updated in real-time; subscribers sync automatically.
 - Data sourced from FIFA and Soccerway.
-*（内容由AI生成，仅供参考）*

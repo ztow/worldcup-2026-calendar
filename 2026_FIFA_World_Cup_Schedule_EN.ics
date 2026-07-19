@@ -1090,8 +1090,8 @@ BEGIN:VEVENT
 UID:e7fad577-8e67-4f94-9ee5-f24600023bac
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-SUMMARY:⚽ Argentina vs Switzerland (Quarter-Finals)
-DESCRIPTION:Argentina vs Switzerland\nStage: Quarter-Finals\nVenue: 迈阿密\, 美国\n\n104 matches total | FIFA World Cup 2026
+SUMMARY:⚽ (ARG/EGY winner) vs (SUI/COL winner) (Quarter-Finals)
+DESCRIPTION:(ARG/EGY winner) vs (SUI/COL winner)\nStage: Quarter-Finals\nVenue: 迈阿密\, 美国\n\n104 matches total | FIFA World Cup 2026
 LOCATION:迈阿密\, 美国
 CATEGORIES:World Cup,Football,Soccer
 TRANSP:OPAQUE
@@ -1112,8 +1112,8 @@ BEGIN:VEVENT
 UID:0a7464bf-6e12-4b38-a7c6-3dabd177dfb0
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-SUMMARY:⚽ France vs Spain (Semi-Finals)
-DESCRIPTION:France vs Spain\nStage: Semi-Finals\nVenue: 达拉斯\, 美国\n\n104 matches total | FIFA World Cup 2026
+SUMMARY:⚽ QF1 winner vs QF2 winner (Semi-Finals)
+DESCRIPTION:QF1 winner vs QF2 winner\nStage: Semi-Finals\nVenue: 达拉斯\, 美国\n\n104 matches total | FIFA World Cup 2026
 LOCATION:达拉斯\, 美国
 CATEGORIES:World Cup,Football,Soccer
 TRANSP:OPAQUE
@@ -1123,8 +1123,8 @@ BEGIN:VEVENT
 UID:565e6fd1-9d67-4de2-ad03-fd747c3e81cb
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-SUMMARY:⚽ Argentina vs England (Semi-Finals)
-DESCRIPTION:Argentina vs England\nStage: Semi-Finals\nVenue: 亚特兰大\, 美国\n\n104 matches total | FIFA World Cup 2026
+SUMMARY:⚽ QF3 winner vs QF4 winner (Semi-Finals)
+DESCRIPTION:QF3 winner vs QF4 winner\nStage: Semi-Finals\nVenue: 亚特兰大\, 美国\n\n104 matches total | FIFA World Cup 2026
 LOCATION:亚特兰大\, 美国
 CATEGORIES:World Cup,Football,Soccer
 TRANSP:OPAQUE

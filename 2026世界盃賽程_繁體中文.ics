@@ -1090,8 +1090,8 @@ BEGIN:VEVENT
 UID:81555f6e-3e1c-4ae6-8e20-0a7a94ec4e21
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-SUMMARY:⚽ 阿根廷 vs 瑞士 (1/4决赛)
-DESCRIPTION:阿根廷 vs 瑞士\n階段：1/4決賽\n地點：迈阿密\, 美国\n\n共104場比賽 | 2026美加墨世界盃
+SUMMARY:⚽ (阿根廷/埃及勝者) vs (瑞士/哥倫比亞勝者) (1/4决赛)
+DESCRIPTION:(阿根廷/埃及勝者) vs (瑞士/哥倫比亞勝者)\n階段：1/4決賽\n地點：迈阿密\, 美国\n\n共104場比賽 | 2026美加墨世界盃
 LOCATION:迈阿密\, 美国
 CATEGORIES:世界盃,足球
 TRANSP:OPAQUE
@@ -1112,8 +1112,8 @@ BEGIN:VEVENT
 UID:51c18529-9a50-4438-8f0f-fedec6da061a
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-SUMMARY:⚽ 法國 vs 西班牙 (半决赛)
-DESCRIPTION:法國 vs 西班牙\n階段：準決賽\n地點：达拉斯\, 美国\n\n共104場比賽 | 2026美加墨世界盃
+SUMMARY:⚽ QF1勝者 vs QF2勝者 (半决赛)
+DESCRIPTION:QF1勝者 vs QF2勝者\n階段：準決賽\n地點：达拉斯\, 美国\n\n共104場比賽 | 2026美加墨世界盃
 LOCATION:达拉斯\, 美国
 CATEGORIES:世界盃,足球
 TRANSP:OPAQUE
@@ -1123,8 +1123,8 @@ BEGIN:VEVENT
 UID:8f883420-5328-4a59-9ce9-2de350174d81
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-SUMMARY:⚽ 阿根廷 vs 英格蘭 (半决赛)
-DESCRIPTION:阿根廷 vs 英格蘭\n階段：準決賽\n地點：亚特兰大\, 美国\n\n共104場比賽 | 2026美加墨世界盃
+SUMMARY:⚽ QF3勝者 vs QF4勝者 (半决赛)
+DESCRIPTION:QF3勝者 vs QF4勝者\n階段：準決賽\n地點：亚特兰大\, 美国\n\n共104場比賽 | 2026美加墨世界盃
 LOCATION:亚特兰大\, 美国
 CATEGORIES:世界盃,足球
 TRANSP:OPAQUE
